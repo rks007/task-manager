@@ -1,5 +1,4 @@
-
-#Task Manager/ToDo Backend
+# Task Manager / ToDo Backend
 
 This is a simple backend application for managing tasks or to-dos.
 Users can list tasks with a title, description, and a completion status. By default, the completion status is set to false.
